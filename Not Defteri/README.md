@@ -1,0 +1,1 @@
+ Projeyi npm start ile başlatmadan önce gerekli materyelleri indirmeniz gerekebilir.
